@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/qtri-hn2026", "destination": "/admin.html" },
+    { "source": "/led-hn2026", "destination": "/dieukhien.html" }
+  ]
+}
